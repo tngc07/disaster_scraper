@@ -31,7 +31,7 @@ def find_articles(html, config, keywords):
     return matches
 
 def run_scraper():
-    keywords = ["earthquake", "temblor", "quake", "sismo", "terremoto",
+    keywords = ["testigos de jehova", "salon del reino", "jehova", "jehovahs witnesses", "kingdom hall", "Jehovah", "earthquake", "temblor", "quake", "sismo", "terremoto",
                 "flood", "inundación", "flash flood", "hurricane", "huracán", "storm",
                 "cyclone", "tropical storm", "landslide", "deslizamiento", "mudslide",
                 "wildfire", "bushfire", "forest fire", "incendio forestal", "volcano",
