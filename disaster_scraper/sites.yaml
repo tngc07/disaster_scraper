@@ -1,0 +1,5 @@
+- name: reuters_environment
+  base_url: "https://www.reuters.com/news/archive/environmentNews"
+  article_tag: "article"
+  article_link_selector: "a"
+  next_page_selector: "a.control-nav-next"
